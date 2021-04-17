@@ -1,0 +1,31 @@
+fileFormatVersion: 2
+guid: 4615953a504c7b14d9f0f1b88ee1118d
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Laca
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: c0d9e3a1850a9024388a7cc32fe11098, type: 3}
+  - {fileID: 12800000, guid: 1194ccd243e7be14380d8274540f6f32, type: 3}
+  - {fileID: 12800000, guid: 3349da3330dcb554fb34ffc8f78b1886, type: 3}
+  - {fileID: 12800000, guid: 22f4b3b30979cd94b9aca09eb59dc6fa, type: 3}
+  - {fileID: 12800000, guid: 94d5973474c644e43a7b0a7d2c9186cb, type: 3}
+  - {fileID: 12800000, guid: 212e36f57decaf548a95d71f63a84226, type: 3}
+  - {fileID: 12800000, guid: 82874e46dcf834f4ab2625453ab9316e, type: 3}
+  - {fileID: 12800000, guid: 64ebceba7cb5849409cdb4c394180d9c, type: 3}
+  - {fileID: 12800000, guid: c4dcbe8e1fbc6944089697b8a10744a7, type: 3}
+  - {fileID: 12800000, guid: 75b67a5f2464e1c49b459e06a0708481, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

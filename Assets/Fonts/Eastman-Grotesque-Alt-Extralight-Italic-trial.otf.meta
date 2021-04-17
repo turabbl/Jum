@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 8394f82d94cbbd9468330e7099ed525e
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Eastman Grotesque Alt Trial
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 925f7915c43f126479daabb7849db1d3, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: a49bd1c8871b2ce4aa34b056959c9d16
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Ventus
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 70be5bca651b1e645a27d63864f9942e, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

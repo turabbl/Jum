@@ -1,0 +1,42 @@
+fileFormatVersion: 2
+guid: afa349f8d5783444aaa8a82096b42fb7
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Eastman Grotesque Alt Trial
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 867aaf407db1f504883a850f3c0a13c3, type: 3}
+  - {fileID: 12800000, guid: 0e486501e3dda9647849479f8563a37a, type: 3}
+  - {fileID: 12800000, guid: 94197741d0297d1459e27449771406c3, type: 3}
+  - {fileID: 12800000, guid: 18f49a3277fb0ab469c340ea2e855e5c, type: 3}
+  - {fileID: 12800000, guid: 4ac629b226f43be478652c681f040a98, type: 3}
+  - {fileID: 12800000, guid: 2a93830370215804fa0fd24e3912a4c4, type: 3}
+  - {fileID: 12800000, guid: 5ecad723f12c132459ec94193bbac82a, type: 3}
+  - {fileID: 12800000, guid: f7be3f43880e2e44c9c4d589c60d3bbc, type: 3}
+  - {fileID: 12800000, guid: cddc59b4ab8dfaa4eab12c9688702940, type: 3}
+  - {fileID: 12800000, guid: e5bff315886eb794e90124a1d61ac1b0, type: 3}
+  - {fileID: 12800000, guid: 925f7915c43f126479daabb7849db1d3, type: 3}
+  - {fileID: 12800000, guid: ced617359b6c6cf42a5f0ec2946d2593, type: 3}
+  - {fileID: 12800000, guid: fad1d08619e8eae4dab7b24171b18264, type: 3}
+  - {fileID: 12800000, guid: 9cce2308a576c6042916cc7023b0584e, type: 3}
+  - {fileID: 12800000, guid: 39050e98b9e3ee8468e07517f1577427, type: 3}
+  - {fileID: 12800000, guid: 0e33baa8d7d62374592ef1be1b9446ad, type: 3}
+  - {fileID: 12800000, guid: 49d7a4f99ca02c94eb02dbe3fe124749, type: 3}
+  - {fileID: 12800000, guid: e52adc2ba8206714b9efe58102c0cfd1, type: 3}
+  - {fileID: 12800000, guid: c665cb7baebfb534090eef8784b824df, type: 3}
+  - {fileID: 12800000, guid: 8394f82d94cbbd9468330e7099ed525e, type: 3}
+  - {fileID: 12800000, guid: c3ae128e0c320c74e98036e085ea0273, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
