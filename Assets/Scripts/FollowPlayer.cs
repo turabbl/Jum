@@ -10,6 +10,7 @@ public class FollowPlayer : MonoBehaviour
     Vector2 velocity = Vector2.zero;
 
     public int yOffSet;
+    public int xoff;
 
 
     private void Update()
